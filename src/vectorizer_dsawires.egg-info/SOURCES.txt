@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/vectorizer_dsawires/__init__.py
+src/vectorizer_dsawires/vectorizer.py
+src/vectorizer_dsawires.egg-info/PKG-INFO
+src/vectorizer_dsawires.egg-info/SOURCES.txt
+src/vectorizer_dsawires.egg-info/dependency_links.txt
+src/vectorizer_dsawires.egg-info/top_level.txt
